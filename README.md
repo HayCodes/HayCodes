@@ -84,7 +84,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=api,aws,bootstrap,c,css,django,docker,express,firebase,flask,git,github,html,js,jquery,linux,md,mongodb,nodejs,php,postgresql,postman,py,react,redis,sql,supabase,tailwindcss,ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=api,aws,bash,bootstrap,c,cs,css,django,docker,express,firebase,flask,gcp,git,github,html,jest,js,jquery,linux,md,mongodb,mysql,nextjs,nginx,nodejs,php,postgresql,postman,prisma,py,react,redis,supabase,tailwind,tensorflow,threejs,ts,unity,vim&perline=14" />
   </a>
 </p>
 
