@@ -5,7 +5,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi <img src="https://tenor.com/view/hand-gif-gif-27040745"  />, I'm Felix</h1></summary>
+    <img src="https://ik.imagekit.io/choppa123/miku-wave.gif?updatedAt=1703876121305" />
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Felix</h1></summary>
   </ul>
 </div>
 
