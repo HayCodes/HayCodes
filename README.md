@@ -21,7 +21,8 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Identify the challenge, comprehend its intricacies, and seek viable solutions!</h2></summary>
+    <summary><h2 style="display: inline-block">Think critically, code precisely, innovate fearlessly.
+</h2></summary>
   </ul>
 </div>
 
