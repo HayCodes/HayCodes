@@ -18,7 +18,7 @@
 ### About Me
 As a dedicated Frontend Engineer, I excel at building high-quality web and mobile applications. My expertise lies in utilizing JavaScript and TypeScript to create exceptional user experiences.
 
-- 🔭  I’m currently working on **TypeScript, NextJS**
+- 🔭  I’m currently working on **Framer, WebFlow**
 - 💼  I build and optimise websites.
 - 📖  I stay updated with industry trends by continuously learning and improve my skill set.
 
@@ -26,14 +26,14 @@ As a dedicated Frontend Engineer, I excel at building high-quality web and mobil
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,git,github,html,jest,js,nextjs,react,tailwind,ts,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=css,git,github,html,jest,js,nextjs,react,vite,tailwind,ts,&perline=10" />
   </a>
 </p>
 
 ### Connect with Me
 ---
-- 📧 [Email](mailto:acedey4you@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/hussein-yusuf-b591b021b/))
+- 📧 [Email](mailto:reach.out.to.hussein@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/this-is-hussein)
 <!-- - ✍🏾 [Blog](https://your-blog-url.com/) -->
 <!-- - 🌐 [Portfolio](https://your-portfolio-url.com)  -->
   *Feel free to reach out for collaboration, exciting projects. 👋🏾🚀*
