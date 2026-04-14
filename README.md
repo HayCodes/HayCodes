@@ -26,7 +26,7 @@ As a dedicated Frontend Engineer, I excel at building high-quality web and mobil
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,git,github,html,jest,js,nextjs,react,vite,tailwind,ts,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=css,git,github,html,jest,js,nextjs,react,vite,tailwind,ts,dart,flutter,&perline=10" />
   </a>
 </p>
 
